@@ -79,6 +79,4 @@ The test suite replays the bundled command file and also checks opening-point
 balances for all eight cards, covering all ten bundled lots. Run `mvn test` to
 execute the suite.
 
-## Demo video
-
-**5-minute demo video:** _Add the team's shareable video link here before submission._
+https://drive.google.com/file/d/1O2Sp23Zf6qQRZyebbXbFg1672Be_VO2I/view?usp=sharing
